@@ -1,0 +1,10 @@
+bin\Debug\VanCashFileCopy.exe
+bin\Debug\VanCashFileCopy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VanCashFileCopy.exe
+obj\Debug\VanCashFileCopy.pdb
+bin\Release\VanCashFileCopy.exe
+bin\Release\VanCashFileCopy.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\VanCashFileCopy.exe
+obj\Release\VanCashFileCopy.pdb

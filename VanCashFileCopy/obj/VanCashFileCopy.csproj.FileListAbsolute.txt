@@ -1,0 +1,5 @@
+C:\0_VSProjects\VanCashFileCopy\VanCashFileCopy\obj\Release\VanCashFileCopy.exe
+C:\0_VSProjects\VanCashFileCopy\VanCashFileCopy\obj\Release\VanCashFileCopy.pdb
+C:\0_VSProjects\VanCashFileCopy\VanCashFileCopy\bin\Release\VanCashFileCopy.exe
+C:\0_VSProjects\VanCashFileCopy\VanCashFileCopy\bin\Release\VanCashFileCopy.pdb
+C:\0_VSProjects\VanCashFileCopy\VanCashFileCopy\obj\Release\ResolveAssemblyReference.cache
